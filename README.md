@@ -1,9 +1,9 @@
 # Machine-Learning_LinearRegression
  Linear regression is an effective model used for predicting from one or more variables (Independent) in Machine learning. It is a Supervised Algorithm which learns to predict a value based on past data.
 The general Equation is:
-			Y = mx + c
-Where Y is the dependent variable									X is the independent variable
-Coming to the Assignment-1
+			**Y = mx + c**
+Where **Y** is the dependent variable									
+      **X** is the independent variable
 The given Data set is  monet.CSV
 
 Using the attached dataset to develop, train, and evaluate a group of linear regression models to predict the price (dependent variable) of a Monet painting from a few of its features (independent variables). Create your model in Python.
