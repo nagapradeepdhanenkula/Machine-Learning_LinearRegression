@@ -14,4 +14,20 @@ Tasks: 1. Create at least two simple linear regression models, each of them has 
 
 2. Create a multivariate linear regression model. You may need to consider the normalization of the raw data. Calculate the error of the prediction with test data. 
 
-![image](https://user-images.githubusercontent.com/54754462/218348128-848ad7ec-fd55-4563-a8a4-3024a33350ed.png)
+MODEL-1
+Platform: Jupyter Notebook
+
+![image](https://user-images.githubusercontent.com/54754462/218348195-d70e6f24-a80e-4a87-a166-5ca72b56f125.png)
+
+Here I have imported the required libraries for the Tasks
+Pandas: By definition. It can be used to perform data manipulation and analysis 
+
+NumPy: It is for Array concepts and has functions to work in the field of Mathematics such as linear algebra and Matrices etc.
+
+Matplotlib: which is used as a Visualize the given dataset.
+
+Seaborn: which is used to Visualize the random distributions (Statistical Graphs)
+
+Reading the Dataset into pandas. The dataset is in Comma separated values and will use pd.read_csv which reads the CSV files.
+
+The pandas provide a dataframe to the dataset.
